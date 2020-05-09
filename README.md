@@ -20,6 +20,6 @@ For every ticker it is makes separate csv file
 
 It works slow and it is normal.
 
-additional info:
+Additional info:
 https://iss.moex.com/iss/reference/
 https://www.moex.com/a2193
